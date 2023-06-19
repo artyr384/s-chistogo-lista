@@ -24,7 +24,7 @@ section, header, footer {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    max-height: 154px;
+    max-height: 146px;
 }
 
 .header__logo {
@@ -155,7 +155,7 @@ section, header, footer {
 }
 
 .card {
-    padding: 21px;
+    padding: 20px;
     border-radius: 30px;
 }
 
