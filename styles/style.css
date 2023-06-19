@@ -24,7 +24,7 @@ section, header, footer {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    max-height: 139px;
+    max-height: 154px;
 }
 
 .header__logo {
@@ -114,7 +114,7 @@ section, header, footer {
 }
 
 .reasons {
-    padding: 40px 20px 32px 20px;
+    padding: 40px 20px 40px 20px;
 }
 
 .content-section__subtitle {
