@@ -88,6 +88,9 @@ section, header, footer {
     display: flex;
     margin-bottom: 24px;
     color:#CCCCCC;
+    font-size: 16px;
+    font-family: 'Inter';
+    font-weight: 400;
 }
 
 .intro__date {
