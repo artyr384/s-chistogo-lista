@@ -54,7 +54,7 @@ section, header, footer {
 
 .cover {
     padding: 0px 20px 0;
-    background-image: url(/img/cover.svg);
+    background-image: url(../img/cover.svg);
     background-repeat: no-repeat;
     background-size: 95% auto;
     background-position: right;
@@ -62,7 +62,7 @@ section, header, footer {
 }
 
 .cover__title {
-    font-family: "EB Garamond";
+    font-family: "EB Garamond", serif;
     font-weight: 400;
     font-size: 72px;
     line-height: 65px;
@@ -81,7 +81,7 @@ section, header, footer {
 }
 
 .intro {
-    padding: 30px 20px 38px 20px;
+    padding: 20px 12px 14px 20px;
 }
 
 .intro__heading {
@@ -104,6 +104,9 @@ section, header, footer {
     margin-bottom: 24px;
     line-height: 21.6px;
     font-size: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
 }
 
 .reasons {
@@ -111,7 +114,7 @@ section, header, footer {
 }
 
 .content-section__subtitle {
-    font-family: 'EB Garamond';
+    font-family: 'EB Garamond', serif;
     font-weight: 500;
     font-size: 28px;
     line-height: 32px;
@@ -148,7 +151,7 @@ section, header, footer {
 }
 
 .card {
-    padding: 32px;
+    padding: 21px;
     border-radius: 30px;
 }
 
@@ -175,7 +178,7 @@ section, header, footer {
 }
 
 .card__title {
-    font-family: 'EB Garamond';
+    font-family: 'EB Garamond', serif;
     font-weight: 500;
     font-size: 22px;
     line-height: 30px;
