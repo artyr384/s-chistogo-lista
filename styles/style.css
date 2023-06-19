@@ -24,7 +24,7 @@ section, header, footer {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    max-height: 132px;
+    max-height: 139px;
 }
 
 .header__logo {
