@@ -24,6 +24,7 @@ section, header, footer {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
+    max-height: 132px;
 }
 
 .header__logo {
@@ -87,10 +88,6 @@ section, header, footer {
 .intro__heading {
     display: flex;
     margin-bottom: 24px;
-    color:#CCCCCC;
-    font-size: 16px;
-    font-family: 'Inter';
-    font-weight: 400;
 }
 
 .intro__date {
@@ -101,6 +98,10 @@ section, header, footer {
 
 .intro__title {
     flex: 2;
+    color:#CCCCCC;
+    font-size: 16px;
+    font-family: 'Inter';
+    font-weight: 400;
 }
 
 .intro__main-text {
